@@ -1,7 +1,7 @@
 import re
-#import docx
+import docx
 import wikipedia
-#from docx import Document
+from docx import Document
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from requests import get 
